@@ -1,16 +1,14 @@
-## Hi there 👋
+# Otávio Felix da Silva
 
-<!--
-**OtavioFelix-in/OtavioFelix-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Sistemas de Informação na PUC-Campinas, atualmente estagiário de desenvolvimento na AgRoss.
 
-Here are some ideas to get you started:
+No dia a dia trabalho com banco de dados (PL/SQL, Oracle) e desenvolvimento web (PHP, JavaScript) em sistemas internos de gestão de estoque. Fora do trabalho, gosto de construir projetos pessoais que resolvem problemas reais — foi assim que nasceram o MeuBolso e o Madu-Tasks, abaixo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+
+- [MeuBolso](https://github.com/OtavioFelix-in/MeuBolso) — app de controle financeiro pessoal, 100% offline
+- [Madu-Tasks](https://github.com/OtavioFelix-in/Madu-Tasks) — agenda de estudos em React Native, com sincronização via Supabase
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/otaviofelix) · [otavio.felix433@gmail.com](mailto:otavio.felix433@gmail.com)
