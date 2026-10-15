@@ -1,4 +1,6 @@
-# Otávio Felix da Silva
+<p align="center">
+  <img src="assets/header.svg" alt="Otávio Felix — Sistemas de Informação, PUC-Campinas" width="100%"/>
+</p>
 
 Estudante de Sistemas de Informação na PUC-Campinas e estagiário de desenvolvimento na AgRoss.
 
@@ -6,11 +8,16 @@ Trabalho com Oracle e PL/SQL em sistemas internos de gestão de estoque e armaz�
 
 Nos projetos pessoais sigo a mesma ideia — construo o que eu (ou alguém perto de mim) precisa de verdade.
 
+<p align="center">
+  <img src="assets/stack.svg" alt="Oracle, PL/SQL, PHP, JavaScript, React Native, Expo, SQLite, Supabase" width="100%"/>
+</p>
+
 ## Projetos
 
-**[MeuBolso](https://github.com/OtavioFelix-in/MeuBolso)** — Controle financeiro pessoal, 100% offline. Nasceu de um problema meu com organização de dinheiro.
-
-**[Madu-Tasks](https://github.com/OtavioFelix-in/Madu-Tasks)** — Agenda de estudos em React Native + Expo, offline-first com SQLite e sincronização opcional via Supabase. Feito sob medida pra rotina de estudos da minha namorada.
+<p align="center">
+  <a href="https://github.com/OtavioFelix-in/MeuBolso"><img src="assets/card-meubolso.svg" alt="MeuBolso — controle financeiro pessoal, 100% offline" width="49%"/></a>
+  <a href="https://github.com/OtavioFelix-in/Madu-Tasks"><img src="assets/card-madu-tasks.svg" alt="Madu-Tasks — agenda de estudos em React Native + Expo" width="49%"/></a>
+</p>
 
 ## Contato
 
