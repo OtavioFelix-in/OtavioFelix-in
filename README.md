@@ -16,7 +16,7 @@ Nos projetos pessoais sigo a mesma ideia — construo o que eu (ou alguém perto
 
 <p align="center">
   <a href="https://github.com/OtavioFelix-in/MeuBolso"><img src="assets/card-meubolso.svg" alt="MeuBolso — controle financeiro pessoal, 100% offline" width="49%"/></a>
-  <a href="https://github.com/OtavioFelix-in/Madu-Tasks"><img src="assets/card-madu-tasks.svg" alt="Madu-Tasks — agenda de estudos em React Native + Expo" width="49%"/></a>
+  <a href="https://github.com/OtavioFelix-in/Studify"><img src="assets/card-studify.svg" alt="Studify — agenda de estudos offline para Android" width="49%"/></a>
 </p>
 
 ## Contato
