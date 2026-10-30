@@ -1,6 +1,6 @@
 <a href="https://otaviofelix-in.github.io/site/"><img src="assets/banner.png" alt="Otávio Felix da Silva — Desenvolvedor Full-Stack, Banco de Dados e Automação" width="100%"/></a>
 
-Estudante de Sistemas de Informação na PUC-Campinas e estagiário de desenvolvimento na AgRoss, onde trabalho com Oracle e PL/SQL em sistemas internos de gestão de estoque e armazém: da modelagem e das consultas às interfaces web em PHP e JavaScript que consomem esses dados.
+Desenvolvedor full stack em formação e estudante de Sistemas de Informação na PUC-Campinas. Como estagiário de desenvolvimento, trabalhei com Oracle e PL/SQL no banco e PHP e JavaScript na tela: levei o financeiro de uma empresa para um novo ERP, com automações por APIs bancárias, e criei o sistema que monitora em tempo real uma IA de atendimento no WhatsApp.
 
 Antes de escrever código, procuro entender a regra de negócio: por que o processo é daquele jeito e o que quebra quando ele muda. Nos projetos pessoais sigo a mesma ideia e construo aplicativos para problemas reais.
 
