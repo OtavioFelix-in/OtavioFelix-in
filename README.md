@@ -20,6 +20,7 @@ Antes de escrever código, procuro entender a regra de negócio: por que o proce
   <a href="https://github.com/OtavioFelix-in/OffPilot"><img src="assets/card-offpilot.png" alt="Off Pilot — plugin que tira o Claude Code do piloto automático" width="49%"/></a>
   <a href="https://github.com/OtavioFelix-in/MeuBolso"><img src="assets/card-meubolso.png" alt="Meu Bolso — controle financeiro pessoal, 100% offline" width="49%"/></a>
   <a href="https://github.com/OtavioFelix-in/Studify"><img src="assets/card-studify.png" alt="Studify — agenda de estudos offline para Android" width="49%"/></a>
+  <a href="https://github.com/OtavioFelix-in/Prumo"><img src="assets/card-prumo.png" alt="Prumo — Física I com simulação, conta passo a passo e Laboratório 3D" width="49%"/></a>
 </p>
 
 ### Contato
